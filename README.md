@@ -1,2 +1,2 @@
 # Trinity-Statistical-Analysis
-The programs I write in the course "Statistical Analysis" at Trinity
+This repository contains programs I write in the course "Statistical Analysis" at Trinity College Dublin
